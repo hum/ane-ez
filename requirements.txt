@@ -1,0 +1,8 @@
+coremltools==5.2.0
+mpmath==1.2.1
+numpy==1.22.2
+packaging==21.3
+protobuf==3.19.4
+pyparsing==3.0.7
+sympy==1.9
+tqdm==4.63.0
